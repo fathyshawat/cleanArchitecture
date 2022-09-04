@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidApps/fawryTask/app/src/main/res/layout/activity_main.xml" value="0.1461187214611872" />
+        <entry key="..\:/AndroidApps/fawryTask/app/src/main/res/layout/item_movie.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidApps/fawryTask/app/src/main/res/layout/item_movies.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidApps/fawryTask/app/src/main/res/layout/item_movies_genre.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidApps/fawryTask/app/src/main/res/layout/movie_details.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidApps/fawryTask/app/src/main/res/layout/movie_list.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidApps/fawryTask/app/src/main/res/layout/movies_genre_list.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidApps/fawryTask/app/src/main/res/layout/movies_list.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
